@@ -1,0 +1,11 @@
+filename,vlm_report
+idx3_true0_pred0_correct_normal.png,a pleural effusion with a pleural effusion
+idx102_true1_pred0_false_negative.png,a pleural effusion with a pleural effusion
+idx20_true0_pred0_correct_normal.png,a pleural effusion with a pleural effusion
+idx19_true0_pred0_correct_normal.png,a pleural effusion with a pleural effusion
+idx1_true0_pred1_false_positive.png,a pleural effusion with a pleural effusion
+idx17_true1_pred0_false_negative.png,a pleural effusion with a pleural effusion
+idx2_true1_pred1_correct_pneumonia.png,a pleural effusion with a pleural effusion
+idx9_true0_pred1_false_positive.png,a pleural effusion with a pleural effusion
+idx0_true1_pred1_correct_pneumonia.png,a pleural effusion with a pleural effusion
+idx4_true1_pred1_correct_pneumonia.png,a pleural effusion with a pleural effusion

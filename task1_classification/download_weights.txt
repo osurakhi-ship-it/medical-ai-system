@@ -1,0 +1,9 @@
+The trained model weights are not included due to GitHub file size limits.
+
+To reproduce results:
+1. Run notebook_demo.ipynb
+2. The model will be trained automatically.
+3. The best model will be saved locally.
+
+Training takes approximately 5–10 minutes on GPU.
+
